@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d51c6b2eb2d5eb54c92f864224be22b6, type: 3}
+  m_Name: SkinsAvailable
+  m_EditorClassIdentifier: 
+  handSkins:
+  - {fileID: 21300000, guid: 2798bae6f5ce1b84fb293004fa399233, type: 3}
+  - {fileID: 21300000, guid: 355a84c3651f36241bf8390c1bd0820d, type: 3}
+  - {fileID: 21300000, guid: 8f2b352ee8793c34c9e10acd90fe7de0, type: 3}
+  - {fileID: 21300000, guid: dfae25496450645478aed0ce332eff83, type: 3}
+  - {fileID: 21300000, guid: 9eac9070fa140734c98308949e90135d, type: 3}
